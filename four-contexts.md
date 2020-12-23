@@ -1,7 +1,7 @@
-# The Context Quadrant
+# The Four Contexts
 *An integrated approach to design and implemention*
 
-## What is the Context Quadrant?
+## What is it?
 
 ### States
 There are two main states that we work with:

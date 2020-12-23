@@ -20,6 +20,11 @@ These states and activities combine into the *four contexts*. We are always doin
 3. Discovering possible solutions to a problem.
 4. Validating our solution addresses a problem.
 
+### Outputs
+While working in these contexts, we are generating outputs:
+- Assertions: what we think we know or what we think will happen if we do something.
+- Artifacts: representations of our thinking about problems or attempts at solutions.
+
 ![two-by-two matrix with circle in the middle](context-quadrant.png) 
 
 ## How does it work?
@@ -32,9 +37,9 @@ Members of the team may be working in different contexts at the same time.
 ### Non-linear
 This is not a linear process. In general, we want to understand problems before proposing solutions, but this ignores the reality of existing knowledge, heuristics, and constraints.
 
-There is a constant back-and-forth between discovery and validation of problems and solutions, all centered around hypotheses.
+There is a constant back-and-forth between discovery and validation of problems and solutions, all centered around assertions and artifacts.
 
-We may enter (and exit) the matrix at any location, depending on the needs and scope of the project.
+We may take different paths through the contexts, depending on the needs and scope of the project.
 
 At some point, the future state becomes the current state and solution validation transitions back into problem discovery anew, with the potential to repeat indefinitely.
 
@@ -58,10 +63,13 @@ For each method, we have to define how it can be used in different contexts.
 Although the process is not linear, confidence generally increases in the following order:
 
 - problem discovery (what is going on?)
-- problem validation (are we solving the right problem?)
+- problem validation (are we addressing the right problem?)
 - solution discovery (how might we address the problem?)
 - solution validation (is our solution working?)
 
-As you answer these questions, your confidence increases. If you’re confidence does increase, you move to a different context. For example, if a solution is not working, return to solution discovery to explore more options or to problem validation to confirm you’re solving the right problem.
+As we answer these questions, our confidence increases. If our confidence does increase, we move to a different context. For example, if a solution is not working, return to solution discovery to explore more options or to problem validation to confirm we're solving the right problem.
 
+## Implications
 We should be comfortable laying out a logical progression of activities, but acknowledge that we may move back and forth between different contexts as needed. The main thing is to be clear about what context we’re operating in at any given time.
+
+…
